@@ -1,0 +1,14 @@
+:root {
+  font-family: Inter, system-ui, Arial, Helvetica, sans-serif;
+  padding: 1rem;
+  background-color: antiquewhite;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+input,
+div {
+  font-size: xx-large;
+}
